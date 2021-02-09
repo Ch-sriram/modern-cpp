@@ -13,3 +13,12 @@ Please feel free to go through the repository to revise C++ concepts (as I'll al
 
 - **[Setting Up Visual Studio Code with MinGW-W64](https://code.visualstudio.com/docs/cpp/config-mingw)**
 - **[Setup Instructions for MinGW-64 Installation](./mingw-w64-installation.md)**
+
+## Reference Material
+
+- **[Install, Compile & Run C++ Programs on CodeLite](https://www.it.iitb.ac.in/frg/wiki/images/2/27/CodeLite_Manual.pdf)**
+
+## Table of Contents
+
+1. Introduction
+   1. Basic Hello World Program: [Commit Details]()

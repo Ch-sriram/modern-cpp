@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# CodeLite Ignore
+Debug
+Release
+Release_gcc_unicode
+DebugUnicode
+*.session
+*.tags
+*.d
+*.o
+*.pyc
+bin
+bin/ofMaker
+lib
+*.mk
+*.workspace.session
+tags*
+ctags*
+.codelite
