@@ -8,3 +8,8 @@ Please feel free to go through the repository to revise C++ concepts (as I'll al
 
 1. **[Beginning C++ Programming &mdash; From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)** by **[Tim Buchalka](https://www.timbuchalka.com/)**
 2. **[CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://youtu.be/2olsGf6JIkU)**
+
+## Initial Setup
+
+- **[Setting Up Visual Studio Code with MinGW-W64](https://code.visualstudio.com/docs/cpp/config-mingw)**
+- **[Setup Instructions for MinGW-64 Installation](./mingw-w64-installation.md)**
