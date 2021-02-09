@@ -21,4 +21,4 @@ Please feel free to go through the repository to revise C++ concepts (as I'll al
 ## Table of Contents
 
 1. Introduction
-   1. Basic Hello World Program: [Commit Details]()
+   1. Basic Hello World Program: [Commit Details](https://github.com/Ch-sriram/modern-cpp/commit/0cd58b72b5c0918ff58f6c9a146156a19d8a472f)
