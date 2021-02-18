@@ -22,4 +22,4 @@ Please feel free to go through the repository to revise C++ concepts (as I'll al
 
 - Basics
   1. **[C++ Preprocessor Directives &mdash; `#include`, `#ifdef`, etc](http://www.cplusplus.com/doc/tutorial/preprocessor/#:~:text=Preprocessor%20directives%20are%20lines%20included,but%20directives%20for%20the%20preprocessor.)**
-  2. C-Style Strings: [Commit Details]()
+  2. C-Style Strings: [Commit Details](https://github.com/Ch-sriram/modern-cpp/commit/da94ebb3bd864b4532f629aee78fa77ed1d8dca1)
