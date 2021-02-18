@@ -19,3 +19,6 @@ Please feel free to go through the repository to revise C++ concepts (as I'll al
 - **[Install, Compile & Run C++ Programs on CodeLite](https://www.it.iitb.ac.in/frg/wiki/images/2/27/CodeLite_Manual.pdf)**
 
 ## Table of Contents
+
+- Basics
+  1. **[C++ Preprocessor Directives &mdash; `#include`, `#ifdef`, etc](http://www.cplusplus.com/doc/tutorial/preprocessor/#:~:text=Preprocessor%20directives%20are%20lines%20included,but%20directives%20for%20the%20preprocessor.)**
