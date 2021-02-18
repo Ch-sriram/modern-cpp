@@ -1,4 +1,4 @@
-# Modern C++
+# Modern C++ (CodeLite Deprecation: Moving to VS Code)
 
 In this repository I've implemented (or implementing) all the concepts of Modern C++ (along with Classical C++ Concepts) such as Inheritance, Polymorphism, Function/Operator Overloads, Exception Handling, I/O & Streams & Standard Template Library (STL).
 
